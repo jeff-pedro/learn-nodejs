@@ -1,0 +1,3 @@
+[submodule "api-rest-auth-profile-roles"]
+	path = api-rest-auth-profile-roles
+	url = https://github.com/jeff-pedro/learn-node-auth-profile-roles
